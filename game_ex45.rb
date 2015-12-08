@@ -20,7 +20,7 @@ group3 = {"Owl" => "Owlet",
 "Bee" => "Larva" }
 
 class Start
-	def rules()
+	def rules() 
 		puts "Welcome to the Matching Game!"
 		puts "I'm going to give you an animal"
 		puts "and you have to give me the corresponding baby name."
